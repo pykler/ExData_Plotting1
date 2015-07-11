@@ -1,5 +1,5 @@
 setwd('/Users/hatem/projects/exdata/ExData_Plotting1')
-source('loadExData.r')
+source('loadExData.R')
 
 # Load data
 data <- loadExData()
